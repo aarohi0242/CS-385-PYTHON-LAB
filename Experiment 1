@@ -1,0 +1,28 @@
+a=10
+b=30
+#arithmetic operators
+print("Arithmetic operators")
+print("+ : ",a+b)
+print("- : ",a-b)
+print("* : ",a*b)
+print("/ : ",a/b)
+print("** : ",a**b)
+print("// : ",a//b)
+print("% : ",a%b)
+print("\n")
+
+#relational operators
+print("relational operators")
+print(a>b)
+print(a>=b)
+print(a<=b)
+print(a<b)
+print(a==b)
+print(a!=b)
+print("\n")
+
+#logical operators
+print("logical operators")
+print(a and b)
+print(a or b)
+print(not a)
